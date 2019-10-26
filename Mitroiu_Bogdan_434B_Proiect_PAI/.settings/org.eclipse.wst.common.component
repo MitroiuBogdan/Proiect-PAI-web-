@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Mitroiu_Bogdan_434B_Proiect_PAI">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/Mitroiu_Bogdan_434B_Proiect_PAI/build/classes"/>
+        <property name="context-root" value="Mitroiu_Bogdan_434B_Proiect_PAI"/>
+    </wb-module>
+</project-modules>
